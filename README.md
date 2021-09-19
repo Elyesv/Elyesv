@@ -17,4 +17,4 @@
 ### I'm also a music lover. Here's the song i'm currently listening to.
 
 
-![current-song-listening](https://spotify-github-profile.vercel.app/api/view?uid=3kah0ygyv8o5ymada8abnyvv0&cover_image=true&theme=natemoo-re)
+![current-song-listening](https://spotify-github-profile.vercel.app/api/view?uid=3kah0ygyv8o5ymada8abnyvv0&cover_image=true&theme=default)
