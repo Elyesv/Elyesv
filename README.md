@@ -2,6 +2,7 @@
 # Fellow Jedi, I'm Elyes
 I'm a French student who love to code bullshit idea.
 
+***
 ### 📱 📧 Social Media:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-Elyes%20Voisin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elyesvoisin/)
@@ -9,7 +10,7 @@ I'm a French student who love to code bullshit idea.
 [![Messenger](https://img.shields.io/badge/Messenger-Elyes-purple?style=for-the-badge&logo=Messenger)](https://m.me/elyes.voisin.7)
 ![Adobe](https://img.shields.io/badge/Adobe-Elyes-orange?style=for-the-badge&logo=Adobe)
 
-
+***
 ### 🚀 💻 Language and tools:
 ![Css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3)
 ![html](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5)
@@ -28,6 +29,8 @@ I'm a French student who love to code bullshit idea.
 ![JetBrains](https://img.shields.io/badge/JetBrains-succes?style=for-the-badge&logo=JetBrains)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-succes?style=for-the-badge&logo=Visual-Studio-Code)
 
+
+***
 ### 🎧 📻 Current song:
 
 
