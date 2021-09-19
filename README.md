@@ -34,4 +34,4 @@ I'm a French student who love to code bullshit idea.
 ### 🎧 📻 Current song:
 
 
-![current-song-listening](https://spotify-github-profile.vercel.app/api/view?uid=3kah0ygyv8o5ymada8abnyvv0&cover_image=true&theme=default)
+[![current-song-listening](https://spotify-github-profile.vercel.app/api/view?uid=3kah0ygyv8o5ymada8abnyvv0&cover_image=true&theme=default)](https://open.spotify.com/user/3kah0ygyv8o5ymada8abnyvv0?si=f3dc3e388a9a4261)
