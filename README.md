@@ -1,6 +1,6 @@
 ![hello-there](img/hello-there-general-kenobi.gif)
 # Fellow Jedi, I'm Elyes
-I'm a French student who love to code bullshit idea. Currently in my 2nd year in university
+I'm a French student who love to code bullshit idea.
 
 ### 📱 📧 Social Media:
 
@@ -25,7 +25,7 @@ I'm a French student who love to code bullshit idea. Currently in my 2nd year in
 
 ![git](https://img.shields.io/badge/Git-succes?style=for-the-badge&logo=git)
 
-### 🎧 📻 Current song.
+### 🎧 📻 Current song:
 
 
 ![current-song-listening](https://spotify-github-profile.vercel.app/api/view?uid=3kah0ygyv8o5ymada8abnyvv0&cover_image=true&theme=default)
