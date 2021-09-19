@@ -4,9 +4,10 @@ I'm a French student who love to code bullshit idea.
 
 ### 📱 📧 Social Media:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-elyesv-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elyesvoisin/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Elyes%20Voisin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elyesvoisin/)
 [![Spotify](https://img.shields.io/badge/Spotify-Ely-succes?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/3kah0ygyv8o5ymada8abnyvv0?si=f3dc3e388a9a4261)
 [![Messenger](https://img.shields.io/badge/Messenger-Elyes-purple?style=for-the-badge&logo=Messenger)](https://m.me/elyes.voisin.7)
+![Adobe](https://img.shields.io/badge/Adobe-Elyes-orange?style=for-the-badge&logo=Adobe)
 
 
 ### 🚀 💻 Language and tools:
@@ -24,6 +25,8 @@ I'm a French student who love to code bullshit idea.
 ![xd](https://img.shields.io/badge/Xd-blueviolet?style=for-the-badge&logo=Adobe-XD)
 
 ![git](https://img.shields.io/badge/Git-succes?style=for-the-badge&logo=git)
+![JetBrains](https://img.shields.io/badge/JetBrains-succes?style=for-the-badge&logo=JetBrains)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-succes?style=for-the-badge&logo=Visual-Studio-Code)
 
 ### 🎧 📻 Current song:
 
