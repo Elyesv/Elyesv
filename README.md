@@ -15,6 +15,7 @@ I'm a French student who love to code bullshit idea.
 ![Css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3)
 ![html](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5)
 ![sass](https://img.shields.io/badge/SASS-blue?style=for-the-badge&logo=SASS)
+![sass](https://img.shields.io/badge/JS-blue?style=for-the-badge&logo=javascript)
 
 ![php](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)
 
